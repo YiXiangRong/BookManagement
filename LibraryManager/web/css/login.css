@@ -1,0 +1,53 @@
+/**/
+/* html{ height:100%; background:url(../images/body_bg.png) 0 0 repeat;}
+body{ height:100%;	margin:0px;	padding:0px;font-size: 14px;list-style:none;list-style-tyle:none;font-family:"����", "����_GB2312", "����";color:#000; background:url(../images/body_bg2.jpg) center -80px no-repeat;}
+.login_bg{ }
+.login_wid{ width:564px; height:600px;  overflow:hidden; margin:0 auto;}
+.login_logo{ height:58px; margin:0px 0 8px 0; text-align:center; padding:165px 0 0 0;}
+.login_logo span{ position:absolute; right:-20px; top:0;}
+.login_cen{ padding:20px 105px 0; background:url(../images/logo_bg.jpg) center -68px no-repeat; height:320px; }
+.login_nav{ height:31px; overflow:hidden; background:url(../images/login_navxian.png) 0 30px repeat-x; margin:0 0 25px 0;}
+.login_nav ul li{ float:left; width:90px; line-height:31px; text-align:center; background:url(../images/logo_nav_gray.png) 0 0 no-repeat; margin:0 5px 0 0;}
+.login_nav ul li a{ color:#545454; font-weight:bold;}
+.login_nav ul li.login_nav_hover a{ color:#fff;}
+.login_nav ul li.login_nav_hover{ background:url(../images/logo_nav_hover.png) 0 0 no-repeat;}
+.caadmin_li{ height:33px; margin:0 0 15px 0; font-family:"΢���ź�", Arial; color:#545454; font-size:15px;  }
+.caadmin_li label{ float:left; width:60px; height:33px; line-height:33px; text-align:right; padding:0 12px 0 0 ;}
+.caadmin_but{ margin:0 0 10px 0; padding:5px 0 0 74px;}
+.admin_input1 input{ background:url(../images/input1.jpg) no-repeat; width:239px; height:28px; border:0; padding: 4px 0 4px 35px ; font-family:"΢���ź�", Arial;}
+.admin_input2 input{ background:url(../images/input2.jpg) no-repeat; width:239px; height:28px; border:0; padding: 4px 0 4px 35px; font-family:"΢���ź�", Arial;}
+.login_butdl{ background:url(../images/login_button.png) 0 0 no-repeat; width:95px; height:36px; border:0;font-family:"����" , Arial; font-size:18px; color:#fff;text-shadow:2px 1px 1px #7f3101;  margin:0 10px 0 0; cursor:pointer;}
+.login_butcz{ background:url(../images/login_button2.png) 0 0 no-repeat; width:95px; height:36px; border:0;font-family:"����" , Arial; font-size:18px; color:#fff;text-shadow:2px 1px 1px #7f3101;  cursor:pointer;}
+.caadmin_bz{ padding:0px 0 0 0px;font-family:"΢���ź�", Arial; color:#333;}
+.login_tit{font-family:"΢���ź�", Arial; color:#333; font-size:18px; height:54px; line-height:50px; margin:0 0 22px 0; background:url(../images/login_tit.png) 6px 0 no-repeat; text-indent:75px; position:relative; }
+.login_tit a{background:url(../images/but_dzmydl.png) 0 0 no-repeat; width:132px; height:36px; position:absolute; display:block; right:10px; top:10px; cursor:pointer; text-indent:-9999px; }
+.login_tit a:hover{background:url(../images/but_dzmydl_hover.png) 0 0 no-repeat;}
+.footer_div{ text-align:center; font-size:14px; line-height:22px; font-family:"΢���ź�",Arial; color:white; } */
+/*red_login*/
+body.r_bodybg{ margin:0; padding:0;background:url(../images/login/r_bodybg.jpg) 0 0 repeat-x #d0d0d0; height:100%;}
+.r_header{ background:url(../images/login/r_header.jpg) top center no-repeat; height:104px; overflow:hidden; width:100%; margin:0 0 65px 0;}
+.r_lcenter{ width:100%; background:url(../images/login/r_center.jpg) top center no-repeat; height:396px; }
+.r_footer{ text-align:center; margin:50px 0 0 0 ;}
+.r_footer p{ font-family:"微软雅黑",Arial, Helvetica, sans-serif; color:#333; font-size:14px;}
+.r_lcenwid{ width:460px; margin:0 auto;}
+.r_ldzmydl{ height:45px; margin:0 0 30px 0 ;}
+.r_ldzmydl a{ display:block; width:188px; float:right; height:45px; margin:0 20px 0 0 ; cursor:pointer; text-indent:-9999px;}
+.r_lyhma{ height:44px; margin:0 0 14px 0; overflow:hidden;}
+.r_lyhma label{ display:block; width:130px; float:left; text-align:right;font-family:"微软雅黑",Arial, Helvetica, sans-serif; font-size:18px; height:40px; line-height:40px; padding:0 61px 0 0; color:#333;}
+.r_lyhma input{ height:34px;width:204px; border:1px solid #fff;}
+.r_ldl{ height:45px; margin:0 0 30px 0;}
+.r_ldl a{ display:block; width:244px; float:right; margin:0 64px 0 0; height:40px; text-indent:-9999px; cursor:pointer;}
+.r_lczzn{ padding:0 0 0 60px; font-size:16px;color:#0033ff;}
+.r_lczzn a{ color:#0033ff; text-decoration:underline;}
+.r_headbg{ background:url(../images/login/r_header_bg.jpg) repeat-x; height:121px; position:absolute; z-index:5; width:100%;}
+.r_header_bg{ background:url(../images/login/r_header_bg2.jpg) no-repeat; height:121px;}
+.r_menu{ margin:0 0 0 200px; height:39px; position:relative; z-index:1;}
+.r_headicon{ height:81px;}
+.r_menul{ position:absolute; width:15px; left:0; top:0; background:url(../images/login/r_menul.png) no-repeat; height:39px; z-index:2;}
+.r_menur{ position:absolute; width:15px; right:0; top:0; background:url(../images/login/r_menur.png) no-repeat; height:39px; z-index:3;}
+.r_menum{ margin:0 15px; background:url(../images/login/r_menubg.jpg) repeat-x; height:39px;}
+.r_menulist{ position:absolute; width:100%; height:39px; top:0; z-index:4;}
+.r_menulist a{ display:block; width:157px; background:url(../images/login/r_menubg2.png) repeat-x; display:block; float:left; height:39px; color:#fff; font-size:16px; text-align:center; font-weight:bold; line-height:39px; cursor:pointer;}
+.r_menulist a.r_menuhover{ background:url(../images/login/r_menuhover.png) no-repeat; text-decoration:none;}
+
+
